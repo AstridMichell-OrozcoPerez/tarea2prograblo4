@@ -1,0 +1,39 @@
+body{
+	background: url(http://www.solofondos.com/wp-content/uploads/2015/12/fondo-animado-cielo-azul.jpg);		
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	color: #E2703A;
+}
+#navegador ul{
+	list-style-type: none;
+	text-align: center;
+}
+#navegador li{
+	display: inline; 
+	text-align: center; 
+	margin: 0 10px 0 0;
+}
+#navegador li a{
+	padding: 2px 7px 2px 7px;
+	color: #666;
+	background-color: #EEEEEE; 
+	border: 1px solid #CCC;
+}
+header{
+	align-content: center;
+}
+h1, h2, h3{
+	text-align: center;
+}
+p{
+	margin-left: 405px; 
+	margin-right: 300px; 
+	text-align: left;
+	color: #6A097D;
+}
+img{
+	height: 320px;
+	width: 600px;
+	margin-left: 200px;
+}
